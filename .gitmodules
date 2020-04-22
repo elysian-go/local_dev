@@ -1,0 +1,6 @@
+[submodule "elysian_project"]
+	path = elysian_project
+	url = https://github.com/elysian-go/elysian_project
+[submodule "elysian_account"]
+	path = elysian_account
+	url = https://github.com/elysian-go/elysian_account
